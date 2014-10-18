@@ -1,6 +1,8 @@
 ex-branches blue
 ===========
 
+Happy 50th anniversary Head of the Charles regatta.
+
 This repository contains several commits on `master` branch and two on feature branches and helps demonstrate branching and merging Git commands.
 
 ## Usage
